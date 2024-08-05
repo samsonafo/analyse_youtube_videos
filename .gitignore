@@ -1,0 +1,5 @@
+# ignore this files
+*.csv
+*.pkl
+extra.ipynb
+
