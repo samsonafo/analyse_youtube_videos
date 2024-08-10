@@ -1,5 +1,4 @@
 # ignore this files
 *.csv
-model.pkl
 extra.ipynb
 
